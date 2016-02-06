@@ -4,3 +4,4 @@ Running meek-google without TBB
 用记事本打开C:\Windows\System32\drivers\etc\hosts 在下面填入“208.117.245.152（或者其他你用Gogo tester测试能用的IP） plus.google.com” 
 填完后保存，运行本软件中的tor-run.bat启动meek-google提取版，将浏览器代理设置为socks5 127.0.0.1:9050 进行使用即可，当想退出本软件时，运行tor-stop.bat即可
 BUG已修复
+下载链接：https://github.com/caorizabiaozima/Tor-s-meek-google/releases/download/meek-google/Meek-google.rar 
